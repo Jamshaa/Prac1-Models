@@ -23,7 +23,7 @@ This is a Django-based web application that allows users to search for recipes, 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/recipe-search.git
+   git clone (https://github.com/Jamshaa/Prac1-Models/tree/main)
    python -m venv venv # On Windows:
    python3 -m venv venv  # On MAC
    source venv/bin/activate #Both
