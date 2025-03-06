@@ -34,6 +34,8 @@ This is a Django-based web application that allows users to search for recipes, 
    python manage.py createsuperuser  #optional
    python manage.py runserver
 
+-- Authors
+            Hamza @jamshaa hmzxaa21@gmail.com
 
    
    
